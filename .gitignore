@@ -1,0 +1,7 @@
+.bundle
+.ruby-version
+/vendor/bundle
+credentials.json
+.env
+
+
